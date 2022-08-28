@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Montserrat&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat';
+}
+
+body {
+    background-color: rgb(222, 227, 231);
+}
+
+header {
+    display: flex;
+    padding: 1em;
+    background-color: white;
+    justify-content: space-around;
+}
+h3 {
+    font-size: 24px;
+}
